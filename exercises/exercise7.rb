@@ -1,0 +1,1 @@
+# An array uses index numbers to identify values whereas a hash uses keys
